@@ -18,13 +18,13 @@
     ]
   editor:
     invisibles: {}
-    fontFamily: "Monoid Tight"
+    fontFamily: "source code pro"
     softWrapAtPreferredLineLength: true
     softWrap: true
-    fontSize: 11
     showIndentGuide: true
     tabType: "soft"
     scrollPastEnd: true
+    fontSize: 11
   "atom-beautify":
     _analyticsUserId: "02acaa46-9f01-4411-bf7b-a94dc1fd8199"
     js_end_with_newline: true

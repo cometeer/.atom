@@ -1,0 +1,42 @@
+"*":
+  "exception-reporting":
+    userId: "75307f3f-074f-e0f4-62da-538f1ca43d75"
+  welcome:
+    showOnStartup: false
+  "tree-view":
+    showOnRightSide: true
+  core:
+    themes: [
+      "spacegray-dark-neue-ui"
+      "spacegray-dark-neue-syntax"
+    ]
+    disabledPackages: [
+      "linter"
+      "linter-jshint"
+      "spell-check"
+      "wordcount"
+    ]
+  editor:
+    invisibles: {}
+    fontFamily: "Monoid Tight"
+    softWrapAtPreferredLineLength: true
+    softWrap: true
+    fontSize: 11
+    showIndentGuide: true
+    tabType: "soft"
+    scrollPastEnd: true
+  "atom-beautify":
+    _analyticsUserId: "02acaa46-9f01-4411-bf7b-a94dc1fd8199"
+    js_end_with_newline: true
+    js_break_chained_methods: true
+    js_space_after_anon_function: true
+    js_wrap_line_length: 80
+  minimap: {}
+  "one-dark-ui": {}
+  "linter-jshint": {}
+  "atom-ternjs": {}
+  linter:
+    lintOnFlyInterval: 400
+  "spell-check": {}
+  docblockr:
+    auto_add_method_tag: true
